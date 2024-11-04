@@ -18,7 +18,3 @@ function szamKeveres() {
     }
     szamokKiirasa(kevertSzamok);
 }
-
-document.addEventListener("", () => {
-    szamokKiirasa(eredetiSzamok);
-});
